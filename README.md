@@ -6,6 +6,6 @@ Then the server calculates the analog amplitudes for that specific bitstring (am
 
 For example:
 
-client sends: ("110011", "Manchester")
+client sends: ("Manchester", "110011")
 
 server answers: (100)(100)(011)(011)(100)(100)
